@@ -1,0 +1,6 @@
+spacy==3.5.1
+numpy==1.24.0
+scikit-learn==1.2.0
+language-tool-python==0.9.3
+openai==0.10.2
+langdetect==1.0.9
